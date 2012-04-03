@@ -1,0 +1,17 @@
+{
+  "name": "mr302",
+  "version": "0.0.0",
+  "author": {
+    "name": "Nodejitsu Inc.",
+    "email": "support@nodejitsu.com"
+  },
+  "description": "This server does one thing, and it does it well.\n\nRedirects.",
+  "homepage": "http://github.com/jesusabdullah/mr302",
+  "scripts": {
+    "start": "node ./bin/server"
+  },
+  "engines": {
+    "node": "~0.6.x"
+  },
+  "analyze": false
+}
